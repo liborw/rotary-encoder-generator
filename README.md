@@ -1,5 +1,9 @@
 <div align="center">
 <img src="fig/test.svg">
+
+Rotary Encoder Generator
+</hr>
+
 </div>
 
 
