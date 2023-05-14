@@ -1,8 +1,7 @@
 <div align="center">
-<img src="fig/test.svg" align="center" width="150" alt="Project icon">
+<img src="fig/test.svg">
 </div>
 
-![test](fig/test.svg)
 
 
 
